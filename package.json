@@ -2,6 +2,9 @@
   "name": "NodeChat",
   "version": "0.0.0",
   "main": "app.js",
+  "engines": {
+    "node": "10.3.0"
+  },
   "scripts": {
     "stop": "echo not implemented",
     "start": "node ./app.js"
